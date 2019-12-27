@@ -22,7 +22,7 @@ public class Experts extends Account {
 	public String getExp_name() {
 		return exp_name;
 	}
-
+	
 	public void setExp_name(String exp_name) {
 		this.exp_name = exp_name;
 	}
